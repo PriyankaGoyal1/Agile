@@ -1,9 +1,0 @@
-Agile testing is done so that software and product development can you simultaneously
-
-Agile is a methodology.
-
-It consists of
-Product owner
-Scrum master
-Scrum team
-Unicorn
