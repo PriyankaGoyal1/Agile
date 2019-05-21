@@ -6,3 +6,4 @@ It consists of
 Product owner
 Scrum master
 Scrum team
+Unicorn
